@@ -41,12 +41,9 @@ Make sure to update the script with your image paths, trained model, or video so
 - Ensure that dlib is properly installed, which may require additional setup depending on your OS.
 - For better accuracy, use high-quality images for training.
 
-## License
-Specify your license here, if applicable.
+
 
 ---
 
 Feel free to modify or add more details specific to your script.
 ```
-
-Would you like me to generate this as an actual file or customize it further?
