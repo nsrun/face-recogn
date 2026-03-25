@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file content for your `face Recognition.py` script. You can copy this into a `README.md` file in your Git repository:
 
-```markdown
 # Face Recognition Script
 
 This repository contains a Python script named `face Recognition.py` that performs face recognition tasks.
